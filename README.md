@@ -1,8 +1,8 @@
 # The_Economist
 **经济学人**
 
-[![Stars](https://img.shields.io/github/stars/joe1206/The-Economist.svg)](https://github.com/joe1206/TheEconomist2021/stargazers)
-[![Forks](https://img.shields.io/github/forks/joe1206/The-Economist.svg)](https://github.com/joe1206/TheEconomist2021/network/members)
+[![Stars](https://img.shields.io/github/stars/joe1206/TheEconomist2021.svg)](https://github.com/joe1206/TheEconomist2021/stargazers)
+[![Forks](https://img.shields.io/github/forks/joe1206/TheEconomist2021.svg)](https://github.com/joe1206/TheEconomist2021/network/members)
 ![GitHub repo size](https://img.shields.io/github/repo-size/joe1206/TheEconomist2021.svg)
 [![Issues](https://img.shields.io/github/issues/joe1206/TheEconomist2021.svg)]()
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/joe1206/TheEconomist2021.svg)
