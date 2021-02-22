@@ -7,7 +7,7 @@
 [![Issues](https://img.shields.io/github/issues/joe1206/TheEconomist2021.svg)]()
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/joe1206/TheEconomist2021.svg)
 
-##   本项目免费更新经济学人期刊，一般会按时更新，其中，杂志相配套的音频也随即上传，是练习听力，提高口语的好帮手。如果大家觉得有帮助，欢迎赞助本频道。
+##   本项目免费更新经济学人期刊，一般会按时更新，其中，听力部分我在百度云群组更新，在GitHub就不上传了，小伙伴先进百度云群组，更新要更快。如果大家觉得有帮助，欢迎赞助本频道。
 
 ## 小伙伴们可以先关注公众号“可爱的小新新”，及时获取最新资料更新动态
 ## 喜欢的小伙伴欢迎打赏支持
